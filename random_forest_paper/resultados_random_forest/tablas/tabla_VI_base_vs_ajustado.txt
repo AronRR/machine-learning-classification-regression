@@ -1,0 +1,4 @@
+  Conjunto    MSE base  R2 base  MSE ajustado  R2 ajustado  Reduccion MSE (%)
+     Train 371060.8940   0.9764    59898.4961       0.9962            83.8575
+Validation 482457.5787   0.9703   313037.6322       0.9807            35.1160
+      Test 527360.1483   0.9670   345534.1000       0.9783            34.4785

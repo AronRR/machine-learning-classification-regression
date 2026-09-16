@@ -1,0 +1,3 @@
+  Conjunto         MSE     R2
+     Train 371060.8940 0.9764
+Validation 482457.5787 0.9703

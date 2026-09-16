@@ -1,0 +1,11 @@
+                                  Dato       Valor
+                       Filas iniciales       53940
+            Filas con dimensiones cero          20
+Duplicados eliminados después de ceros         145
+                         Filas finales       53775
+                  Variables originales           9
+                Variables tras One-Hot          26
+                                Target price (USD)
+                                 Train       32265
+                            Validation       10755
+                                  Test       10755

@@ -1,0 +1,4 @@
+Selección por menor MSE Validation: 200 árboles, profundidad 18.
+MSE Validation: 313037.632159.
+Empates exactos: menor profundidad y después menos árboles.
+Búsqueda progresiva limitada; no garantiza un óptimo global.
